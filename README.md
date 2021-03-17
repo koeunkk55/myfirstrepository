@@ -26,4 +26,4 @@ _이탤릭채_
 코드블럭
 ```
 
-<img width="" height="" src="./picture/고양이"></img>
+<img width="" height="" src="./picture/고양이.jpeg"></img>
