@@ -27,3 +27,7 @@ _이탤릭채_
 ```
 
 <img width="" height="" src="./picture/고양이.jpeg"></img>
+
+## 융합기술 4주차 과제
+
+<img width="" height="" src="./picture/it융합기술 4주차 과제.jpg"></img>
